@@ -51,7 +51,28 @@ Mantengo un portafolio activo en GitHub que refleja mi aprendizaje continuo y ca
 | **Analítica de Datos** | EDA, Limpieza de datos, Transformación, Visualización |
 | **Machine Learning** | Regresión, Clasificación, Clustering, Estadística Aplicada |
 | **Competencias blandas** | Pensamiento Analítico, Resolución de Problemas, Trabajo en equipo, Aprendizaje Continuo |
+---
 
+## 🚀 Proyectos Destacados
+
+> 🔧 *Proyectos en construcción — explora los repositorios o vuelve pronto para ver las actualizaciones.*
+
+| # | Proyecto | Descripción | Stack | Repositorio |
+|---|----------|-------------|-------|-------------|
+| 01 | **Música en Datos** | Análisis Exploratorio de Datos sobre un dataset real | Python · Pandas · Matplotlib · Estadistica Aplicada| [Ver →](https://github.com/YiberRomero/Musica-en-Datos) |
+| 02 | **Pipeline ML** | Modelo de clasificación / regresión con Scikit-learn | Python · Scikit-learn · NumPy | [Ver →](https://github.com/YiberRomero) |
+| 03 | **SQL Analytics** | Consultas y reportes analíticos con SQL | SQL · Excel | [Ver →](https://github.com/YiberRomero) |
+| 04 | **Dashboard** | Visualización interactiva de datos con Power BI | Power BI · Excel | [Ver →](https://github.com/YiberRomero) |
+
+---
+
+## 🎯 Objetivos de Aprendizaje Actuales
+
+- [ ] Profundizar en **modelos supervisados y no supervisados** de ML
+- [ ] Fortalecer habilidades en **SQL** con consultas avanzadas y optimización
+- [ ] Explorar **fundamentos cloud** para ingeniería de datos (AWS / GCP)
+- [ ] Mejorar dashboards en **Power BI** con DAX y modelado de datos
+- [ ] Contribuir a proyectos de **datos de código abierto**
 ---
 
 ## 📈 Estadísticas de GitHub
@@ -70,29 +91,9 @@ Mantengo un portafolio activo en GitHub que refleja mi aprendizaje continuo y ca
 
 </div>
 
----
-
-## 🚀 Proyectos Destacados
-
-> 🔧 *Proyectos en construcción — explora los repositorios o vuelve pronto para ver las actualizaciones.*
-
-| # | Proyecto | Descripción | Stack | Repositorio |
-|---|----------|-------------|-------|-------------|
-| 01 | **Música en Datos** | Análisis Exploratorio de Datos sobre un dataset real | Python · Pandas · Matplotlib · Estadistica Aplicada| [Ver →](https://github.com/Musica-en-Datos) |
-| 02 | **Pipeline ML** | Modelo de clasificación / regresión con Scikit-learn | Python · Scikit-learn · NumPy | [Ver →](https://github.com/YiberRomero) |
-| 03 | **SQL Analytics** | Consultas y reportes analíticos con SQL | SQL · Excel | [Ver →](https://github.com/YiberRomero) |
-| 04 | **Dashboard** | Visualización interactiva de datos con Power BI | Power BI · Excel | [Ver →](https://github.com/YiberRomero) |
 
 
----
 
-## 🎯 Objetivos de Aprendizaje Actuales
-
-- [ ] Profundizar en **modelos supervisados y no supervisados** de ML
-- [ ] Fortalecer habilidades en **SQL** con consultas avanzadas y optimización
-- [ ] Explorar **fundamentos cloud** para ingeniería de datos (AWS / GCP)
-- [ ] Mejorar dashboards en **Power BI** con DAX y modelado de datos
-- [ ] Contribuir a proyectos de **datos de código abierto**
 
 ---
 
