@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### 👋 Hola, soy Yiber Darley Romero Pedrozo
+### 👋 Hola, soy Yiber Romero 
 
 **Estudiante de Ingeniería de Sistemas en la  Universidad Industrial de Santander (UIS)**  
 
