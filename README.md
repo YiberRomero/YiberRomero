@@ -78,7 +78,7 @@ Mantengo un portafolio activo en GitHub que refleja mi aprendizaje continuo y ca
 
 | # | Proyecto | Descripción | Stack | Repositorio |
 |---|----------|-------------|-------|-------------|
-| 01 | **Análisis EDA** | Análisis Exploratorio de Datos sobre un dataset real | Python · Pandas · Matplotlib | [Ver →](https://github.com/YiberRomero) |
+| 01 | **Música en Datos** | Análisis Exploratorio de Datos sobre un dataset real | Python · Pandas · Matplotlib · Estadistica Aplicada| [Ver →](https://github.com/Musica-en-Datos) |
 | 02 | **Pipeline ML** | Modelo de clasificación / regresión con Scikit-learn | Python · Scikit-learn · NumPy | [Ver →](https://github.com/YiberRomero) |
 | 03 | **SQL Analytics** | Consultas y reportes analíticos con SQL | SQL · Excel | [Ver →](https://github.com/YiberRomero) |
 | 04 | **Dashboard** | Visualización interactiva de datos con Power BI | Power BI · Excel | [Ver →](https://github.com/YiberRomero) |
