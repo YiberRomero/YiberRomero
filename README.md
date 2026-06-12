@@ -55,7 +55,6 @@ Mantengo un portafolio activo en GitHub que refleja mi aprendizaje continuo y ca
 
 ## 🚀 Proyectos Destacados
 
-> 🔧 *Proyectos en construcción — explora los repositorios o vuelve pronto para ver las actualizaciones.*
 
 | # | Proyecto | Descripción | Stack | Repositorio |
 |---|----------|-------------|-------|-------------|
